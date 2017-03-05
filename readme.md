@@ -1,1 +1,1 @@
-in this example, i made a login system, with vue at client side, and laravel at server side.
+Login and Register system, with vue at client side, and laravel at server side.
