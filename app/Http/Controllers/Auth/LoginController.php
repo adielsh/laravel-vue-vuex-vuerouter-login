@@ -40,8 +40,6 @@ class LoginController extends Controller
 
     public function logout()
     {
-//        return  Auth::user();
-//        dd("asdasdasd");
       return Auth::logout();
     }
 }
